@@ -1,0 +1,21 @@
+.Design-gráfico-1-hex { color: #F2884B; }
+.Design-gráfico-2-hex { color: #F2BEA0; }
+.Design-gráfico-3-hex { color: #F2784B; }
+.Design-gráfico-4-hex { color: #59372A; }
+.Design-gráfico-5-hex { color: #F2F2F2; }
+*{
+    margin: 15px;
+}
+body{
+    background-color: #F2BEA0;
+}
+h1{
+    text-align: center;
+    font-family: 'Arial';
+    font-size: 40pt;
+    background-color: #F2884B;
+}
+p{
+    
+    text-align: center;
+}
