@@ -26,3 +26,12 @@ a{
 .transicao{
     transition: all .5s linear;
 }
+@keyframes example {
+    from {background-color: #F2BEA0}
+    to {background-color: #F2784B;}
+}
+.animacao{
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
