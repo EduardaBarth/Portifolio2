@@ -71,9 +71,10 @@ nav a{
 .contato{
     display: flex;
     justify-content: space-between;
-    margin-left: 50%;
+    margin-left: 15%;
     margin-right: 5%;
 }
+
 header{
     margin-top: 20px;
 }
@@ -177,4 +178,8 @@ h2{
     background-color: #0A66C2;
     font-family: "SF Pro Text", Helvetica, sans-serif;
   }
-
+  .pesquisa{
+    text-align: center;
+    font-family: "Arial";
+    font-size: 13pt;
+  }
