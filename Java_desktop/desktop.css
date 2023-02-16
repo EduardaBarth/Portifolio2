@@ -23,3 +23,6 @@ a{
     color: #59372A;
     text-decoration: none;
 }
+.transicao{
+    transition: all .5s linear;
+}
